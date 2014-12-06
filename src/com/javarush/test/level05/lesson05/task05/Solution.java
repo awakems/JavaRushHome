@@ -16,7 +16,7 @@ public class Solution {
         System.out.println(mur.fight(mur2));
         System.out.println(mur2.fight(mur3));
         System.out.println(mur3.fight(mur));
-        //add your code here
+        //add your code here and here
     }
 
     public static class Cat {
