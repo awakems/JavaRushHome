@@ -3,6 +3,7 @@ package com.javarush.test.level07.lesson04.task05;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.nio.Buffer;
+import java.util.Arrays;
 
 /* Один большой массив и два маленьких
 1. Создать массив на 20 чисел.
@@ -33,6 +34,8 @@ public class Solution
         for (int i = 0; i < little2.length; i++) {
             System.out.println(little2[i]);
         }
+
+        
 
     }
 }
